@@ -17,4 +17,4 @@ const config = {
 
 const musicBot = new MusicBot(config);
 
-client.login(process.env.BOT_TOKEN);
+musicBot.run(process.env.BOT_TOKEN);
