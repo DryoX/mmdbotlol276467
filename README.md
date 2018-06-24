@@ -1,2 +1,2 @@
-# mmdbotlol276467
-aaahhh... so hard...
+# DefinitelyNotBot
+A Discord bot coded in Discord.JS, hosted using Heroku.
